@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hollyhowes
-- 👀 I’m interested in geoscience, cloud and the modernization of petrographic techniques.
-- 🌱 I’m currently learning AWS Cloud, Linux and Python. 
+- 👀 I’m interested in geoscience, modernization, machine learning and data science.
+- 🌱 I’m currently learning AWS Cloud, Linux, Python, Postman, Docker, SQL and NoSQL. 
 - 📫 How to reach me - holly.howes@outlook.com
 
 <!---
