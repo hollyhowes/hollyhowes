@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hollyhowes
+- 👋 Hi, I’m Holly!
 - 👀 I’m interested in geoscience, modernization, machine learning and data science.
 - 🌱 I’m currently learning AWS Cloud, Python, Docker, SQL and NoSQL. 
 - 📫 How to reach me - holly.howes@outlook.com
